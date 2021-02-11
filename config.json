@@ -3,7 +3,7 @@
   "version": "1.0",
   "slug": "control_fan",
   "description": "Addon for RP4 fan controlling",
-  "arch": ["aarch64"],
+  "arch": ["aarch64", "amd64", "armv7],
   "startup": "application",
   "boot": "auto",
   "privileged": ["SYS_RESOURCE"],

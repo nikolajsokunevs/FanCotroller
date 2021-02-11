@@ -17,7 +17,7 @@ def main():
         temp = cpu_temp()
         if cooling_started:
             if temp >  float(offTemperature): 
-                os.system("/usr/local/export/rootfs/bin/gpioset --mode=time --sec=15 0 "+str(pin)+"=1")
+                os.system("/usr/local/export/rootfs/bin/gpioset --mode=time --sec=60 0 "+str(pin)+"=1")
                 cooling_started = True
             else:
                 if temp< float(offTemperature): 

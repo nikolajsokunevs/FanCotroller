@@ -29,8 +29,8 @@ def main():
                 cooling_started = True
             else:
                 print(temp)
-                time.sleep(1.0)
-        time.sleep(0.5)
+                time.sleep(5.0)
+        #time.sleep(0.5)
 
 
 if __name__ == '__main__':

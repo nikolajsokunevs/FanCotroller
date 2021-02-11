@@ -33,5 +33,6 @@ At the addon configuration tab please specify:
 * Temperature at which the fan turns on
 * Temperature at which the fan turns off
 
-[screenshot1]: https://github.com/nokunev/FanCotroller/blob/master/images/screenshot.png
+[screenshot1]: https://github.com/hassio-addons/addon-vscode/raw/main/images/screenshot.png
 [screenshot]: https://github.com/home-assistant/addons/blob/master/configurator/images/screenshot.png
+[screenshot]: https://github.com/home-assistant/hassio-addons/raw/master/configurator/images/screenshot.png

@@ -6,7 +6,7 @@ Fan Controller for Home Assistant.
 
 ## About
 
-You can use this add-on to install fan controller, which is a tool to control your cooling system.
+You can use this add-on to install fan controller, which is a tool to control your RPi cooling system.
 
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -21,4 +21,11 @@ You can use this add-on to install fan controller, which is a tool to control yo
 
 ## Mount the fan
 Mount the fan according to the scheme:
-![alt text](https://https://github.com/nokunev/FanCotroller/blob/master/raspberry-pi-fan-controller-schematic.jpg?raw=true)
+![Screenshot](raspberry-pi-fan-controller-schematic.png)
+
+## Configuration
+At the addon configuration tab please specify:
+* GPIO pin number according to the scheme:
+![Screenshot](GPIO-Pinout-Diagram-2.png)
+* Temperature at which the fan turns on
+* Temperature at which the fan turns off

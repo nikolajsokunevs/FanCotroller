@@ -1,6 +1,6 @@
 {
   "name": "Fan controller",
-  "version": "1.9",
+  "version": "1.0",
   "slug": "control_fan",
   "description": "Addon for RP4 fan controlling",
   "arch": ["aarch64"],

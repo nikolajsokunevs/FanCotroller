@@ -11,7 +11,7 @@
   "options": {
      "gpioNumber": 17,
 	 "onTemperature":55,
-	 "offTemperature":48
+	 "offTemperature":40
    },
    "schema": {
      "gpioNumber": "int",

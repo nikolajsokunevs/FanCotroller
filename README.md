@@ -2,8 +2,7 @@
 
 Fan Controller for Home Assistant.
 
-![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] 
-
+![Supports aarch64 Architecture][aarch64-shield]
 ## About
 
 You can use this add-on to install fan controller, which is a tool to control your cooling system.

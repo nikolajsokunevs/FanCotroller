@@ -22,7 +22,7 @@ You can use this add-on to install fan controller, which is a tool to control yo
 
 ## Mount the fan
 Mount the fan according to the scheme: 
-![Configurator in the Home Assistant Frontend][screenshot]
+![Configurator in the Home Assistant Frontend][screenshot3]
 
 ![Configurator in the Home Assistant Frontend][screenshot1]
 
@@ -34,5 +34,5 @@ At the addon configuration tab please specify:
 * Temperature at which the fan turns off
 
 [screenshot1]: https://github.com/hassio-addons/addon-vscode/raw/main/images/screenshot.png
-[screenshot]: https://github.com/home-assistant/addons/blob/master/configurator/images/screenshot.png
+[screenshot3]: https://github.com/nokunev/FanCotroller/raw/main/images//screenshot.png
 [screenshot]: https://github.com/home-assistant/hassio-addons/raw/master/configurator/images/screenshot.png

@@ -1,0 +1,5 @@
+{
+     "gpioNumber": 17,
+	 "onTemperature":50,
+	 "offTemperature":47
+}

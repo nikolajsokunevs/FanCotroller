@@ -1,0 +1,21 @@
+{
+  "name": "Fan controller",
+  "version": "1.9",
+  "slug": "control_fan",
+  "description": "Addon for RP4 fan controlling",
+  "arch": ["aarch64"],
+  "startup": "application",
+  "boot": "auto",
+  "privileged": ["SYS_RESOURCE"],
+  "devices":["/dev/gpiochip0"],
+  "options": {
+     "gpioNumber": 17,
+	 "onTemperature":55,
+	 "offTemperature":48
+   },
+   "schema": {
+     "gpioNumber": "int",
+	 "onTemperature":"int",
+	 "offTemperature":"int"
+   }
+}

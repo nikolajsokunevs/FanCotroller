@@ -12,3 +12,12 @@ You can use this add-on to install fan controller, which is a tool to control yo
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+
+## Hardware
+
+* Raspberry Pi
+* Fan 5V
+* Transistor 
+
+## Mount the fan
+Mount the fan according to the scheme:

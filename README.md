@@ -21,6 +21,7 @@ You can use this add-on to install fan controller, which is a tool to control yo
 
 ## Mount the fan
 Mount the fan according to the scheme:
+[aarch64-shield]: images/raspberry_pi_fan_controller_schematic.png
 ![Screenshot](images/raspberry_pi_fan_controller_schematic.png)
 
 ## Configuration

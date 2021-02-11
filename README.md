@@ -22,10 +22,9 @@ You can use this add-on to install fan controller, which is a tool to control yo
 
 ## Mount the fan
 Mount the fan according to the scheme: 
-
+![Configurator in the Home Assistant Frontend][screenshot]
 
 ![Configurator in the Home Assistant Frontend][screenshot1]
-![Configurator in the Home Assistant Frontend][screenshot2]
 
 ## Configuration
 At the addon configuration tab please specify:
@@ -35,4 +34,4 @@ At the addon configuration tab please specify:
 * Temperature at which the fan turns off
 
 [screenshot1]: https://github.com/nokunev/FanCotroller/blob/master/images/screenshot.png
-[screenshot2]: https://github.com/home-assistant/addons/blob/master/configurator/images/screenshot.png
+[screenshot]: https://github.com/home-assistant/addons/blob/master/configurator/images/screenshot.png

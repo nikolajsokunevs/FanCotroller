@@ -32,7 +32,7 @@ At the addon configuration tab please specify:
 * Temperature at which the fan turns on
 * Temperature at which the fan turns off
 
-[screenshot1]: https://github.com/nokunev/FanCotroller/raw/main/images/raspberry_pi_fan_controller_schematic.png
+[screenshot1]: https://github.com/nokunev/FanCotroller/blob/main/images/raspberry_pi_fan_controller_schematic.png
 [screenshot3]: https://github.com/nokunev/FanCotroller/raw/main/images/GPIO_Pinout_Diagram.png
 
 

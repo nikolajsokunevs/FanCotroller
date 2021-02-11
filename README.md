@@ -21,11 +21,11 @@ You can use this add-on to install fan controller, which is a tool to control yo
 
 ## Mount the fan
 Mount the fan according to the scheme:
-![Screenshot](raspberry-pi-fan-controller-schematic.png)
+![Screenshot](images/raspberry_pi_fan_controller_schematic.png)
 
 ## Configuration
 At the addon configuration tab please specify:
 * GPIO pin number according to the scheme:
-![Screenshot](GPIO-Pinout-Diagram-2.png)
+![Screenshot](images/GPIO_Pinout_Diagram.png)
 * Temperature at which the fan turns on
 * Temperature at which the fan turns off

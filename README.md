@@ -22,17 +22,18 @@ You can use this add-on to install fan controller, which is a tool to control yo
 
 ## Mount the fan
 Mount the fan according to the scheme: 
-![Configurator in the Home Assistant Frontend][screenshot3]
-
 ![Configurator in the Home Assistant Frontend][screenshot1]
+
 
 ## Configuration
 At the addon configuration tab please specify:
 * GPIO pin number according to the scheme:
-![Screenshot](https://github.com/nokunev/FanCotroller/blob/master/images/GPIO_Pinout_Diagram.png)
+![Configurator in the Home Assistant Frontend][screenshot3]
 * Temperature at which the fan turns on
 * Temperature at which the fan turns off
 
-[screenshot1]: https://github.com/hassio-addons/addon-vscode/raw/main/images/screenshot.png
-[screenshot3]: https://github.com/nokunev/FanCotroller/raw/main/images/screenshot.png
-[screenshot]: https://github.com/home-assistant/hassio-addons/raw/master/configurator/images/screenshot.png
+[screenshot1]: https://github.com/nokunev/FanCotroller/raw/main/images/raspberry_pi_fan_controller_schematic.png
+[screenshot3]: https://github.com/nokunev/FanCotroller/raw/main/images/GPIO_Pinout_Diagram.png
+
+
+

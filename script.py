@@ -30,7 +30,7 @@ def main():
             else:
                 print(temp)
                 time.sleep(1.0)
-        time.sleep(1.0)
+        time.sleep(0.5)
 
 
 if __name__ == '__main__':

@@ -22,7 +22,8 @@ You can use this add-on to install fan controller, which is a tool to control yo
 * Transistor 
 
 ## Mount the fan
-Mount the fan according to the scheme: [test]
+Mount the fan according to the scheme: 
+![Alt text] (https://howchoo.com/media/ot/mx/ot/raspberry-pi-fan-controller-schematic.png)
 ![Screenshot](images/raspberry_pi_fan_controller_schematic.png)
 
 ## Configuration

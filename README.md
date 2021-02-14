@@ -18,7 +18,7 @@ You can use this add-on to install fan controller, which is a tool to control yo
 
 * Raspberry Pi
 * Fan 5V
-* Transistor 
+* Transistor(2N2222)
 
 ## Mount the fan
 Mount the fan according to the scheme: 
